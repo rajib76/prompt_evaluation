@@ -1,0 +1,5 @@
+rouge
+python-dotenv
+langchain
+pymupdf
+openai
